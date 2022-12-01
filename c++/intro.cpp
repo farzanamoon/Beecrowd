@@ -1,4 +1,5 @@
-/*#include<iostream>
+//how to print in cpp
+#include<iostream>
 #include<conio.h>
 using namespace std;
 int main()
@@ -6,8 +7,8 @@ int main()
     cout << "Farzana Moon";
     getch ();
 }
-*/
-/*#include<iostream>
+// How to assign value in cpp
+#include<iostream>
 #include<conio.h>
 using namespace std;
 int main()
@@ -18,8 +19,8 @@ int main()
     cout<<"number1= "<<num1<<endl<<"number2= "<<num2;
     getch();
 }
-*/
-/*#include<iostream>
+//Taking input in cpp
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -28,7 +29,8 @@ int main()
     cin>> num;
     cout<<"Enterd number is: "<<num;
     return 0;
-}*/
+}
+//sum of two numbers
 #include<iostream>
 using namespace std;
 int main()
