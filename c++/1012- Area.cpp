@@ -13,9 +13,6 @@ int main()
     cout<<endl;
 
     float area= 3.14159*(C*C);
-    /*cout<< showpoint;
-    cout<<fixed;
-    cout<<setprecision(3);*/
     cout<<"CIRCULO: " <<area;
     cout<<endl;
 
