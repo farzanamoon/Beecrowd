@@ -25,7 +25,7 @@ int main()
     {
         if(a<b)
         {
-            printf("%d\n%d\n%d\n",c,a,b);
+            printf(" %d\n%d\n%d\n",c,a,b);
         }
         else
             printf("%d\n%d\n%d\n",c,b,a);
