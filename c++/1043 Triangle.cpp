@@ -10,6 +10,6 @@ int main()
         cout<<"Perimetro = "<<fixed<<setprecision(1)<< A+B+C<<endl;
     }
     else
-        cout<<"Area= " <<fixed<<setprecision(1)<<((A+B)/2)*C<<endl;
+        cout<<"Area = " <<fixed<<setprecision(1)<<((A+B)/2)*C<<endl;
     return 0;
 }
