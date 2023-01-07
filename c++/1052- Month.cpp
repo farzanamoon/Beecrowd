@@ -37,7 +37,7 @@ int main()
         cout<<"October"<<endl;
         break;
     case 11:
-        cout<<"Novmember"<<endl;
+        cout<<"November"<<endl;
         break;
     case 12:
         cout<<"December"<<endl;
