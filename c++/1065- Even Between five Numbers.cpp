@@ -10,7 +10,7 @@ int main()
             count++ ;
 
     }
-    cout<<count<< "valores pares"<<endl;
+    cout<<count<< " valores pares"<<endl;
     return 0;
 
 
