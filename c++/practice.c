@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
-//#include<conio.h>
+#include<conio.h>
 int i,j;
 int main_exit;
 void menu();
@@ -95,7 +95,7 @@ void new_acc()
     if (main_exit==1)
         menu();
     else if(main_exit==0)
-            int close();
+            close();
     else
         {
             printf("\nInvalid!\a");
@@ -110,7 +110,7 @@ void admin(void)
     printf("\n\n\t\tEnter the password to login:");
     //scanf("%s",pass);
 
-    while((ch =getch())!=13){
+    while((ch =_getch())!=13){
 
         pass[i]=ch ;
         i++ ;
