@@ -6,7 +6,7 @@ int main()
     cin>>N;
 
 
-        for(i=2; i<=N; i++)
+        for(i=1; i<=N; i++)
         {
             if(i%2==0)
             {
