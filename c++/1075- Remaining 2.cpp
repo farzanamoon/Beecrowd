@@ -4,7 +4,7 @@ int main()
 {
     int N,i;
      cin>>N;
-    for(i=1; i<=1000; i++)
+    for(i=1; i<=10000; i++)
     {
 
         if(i%N==2)
