@@ -7,7 +7,7 @@ int main()
     {
        cout<<"I="<<i<<" J="<<j<<endl;
        i+=3;
-       j-=5;
+       j-=4;
     }
 
 
